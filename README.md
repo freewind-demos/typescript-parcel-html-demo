@@ -1,4 +1,4 @@
-TypeScript HTML Demo
+TypeScript Parcel HTML Demo
 =================================
 
 ```
